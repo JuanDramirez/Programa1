@@ -1,6 +1,6 @@
 
 package programa1;
-
+//clase que contieneel metodo para calcular la hipotenusa
 
 public class Pitagoras {
      public static double calcular_hipotenusa (double a,double b) {
